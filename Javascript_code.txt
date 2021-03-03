@@ -1,0 +1,34 @@
+function aftab(){
+   for(let i=0; i<10;i++){
+       console.log(i);
+   }
+}
+aftab();
+
+alert('hello World');
+console.log('hello world');
+                             DOM: Document Object Model  -MDN console
+document.write('hello world');
+
+variable---
+var,let,const
+let age=30;
+console.log(age);
+
+var color='red'; --window.color= red
+let age='30;'
+
+const name='Aftab';
+const age=50;
+console.log('My name is '+ name+ ' and my age is '+age);
+console.log(`My name is ${name} and my age is ${age}`);
+
+const hello=`My name is ${name} and my age is ${age}`;
+console.log(hello);
+
+const s='hello World';
+
+console.log(s.toUpperCase());
+const s='hello World';
+
+console.log(s.lenght);

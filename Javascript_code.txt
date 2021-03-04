@@ -36,3 +36,5 @@ console.log(s.lenght);
 Array----
 const number = new Array(1,2,3,4,5);
 console.log(number);
+const colors = ['red','green','blue'];
+console.log(colors);

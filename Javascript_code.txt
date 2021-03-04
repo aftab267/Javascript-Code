@@ -32,3 +32,7 @@ console.log(s.toUpperCase());
 const s='hello World';
 
 console.log(s.lenght);
+====================
+Array----
+const number = new Array(1,2,3,4,5);
+console.log(number);
